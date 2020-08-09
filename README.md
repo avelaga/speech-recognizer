@@ -1,5 +1,5 @@
 # Speech Recognizer
-https://realpython.com/python-speech-recognition/
+made with the help of https://realpython.com/python-speech-recognition/
 
 ### To setup microphone access on linux:
 `sudo apt-get install python-pyaudio python3-pyaudio`
